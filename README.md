@@ -1,13 +1,46 @@
-# 👨‍💻 Welcome to My GitHub!  
+# Rodrigo Fernandez
 
-Hi there! My name is Rodrigo, and I’m an IT Technologist student passionate about programming and software development. This GitHub profile is where I showcase my academic projects and share my journey as I grow in the tech world.  
+Software Engineer focused on Quality Engineering, Test Automation and Distributed Systems.
 
-## 📚 About Me  
+Currently working as SDET, designing and maintaining automation frameworks for web applications, while continuously expanding into backend and architectural development.
 
-- 💡 **Education**: I’m currently pursuing a degree in IT Technology. I’ve completed the first year of my studies, focusing on programming fundamentals in C and C++.  
-- 💻 **Professional Experience**: I work as a Quality Assurance Automation Engineer at Infocorp. I’ve contributed to building a custom Java framework using Selenium to test complex home banking platforms and mobile apps.  
+## 🔍 Current Focus
 
-## 🚀 What You'll Find Here  
+- Java-based test automation and framework design
+- Distributed system architectures (SOAP / Jakarta EE)
+- Backend development fundamentals
+- Software design and clean architecture principles
 
-- Academic projects written in C and C++  
-- Projects showcasing my learning journey  
+## 🚀 Selected Projects
+
+### TurismoUY – Jakarta EE & SOAP Distributed System
+Enterprise-style academic project implementing:
+- Multi-layer architecture (Controller / DTO / Persistence)
+- SOAP Web Services (JAX-WS, WSDL, JAXB)
+- Web client (Servlet/JSP) + Desktop client (Swing)
+- JPA (EclipseLink) with HSQLDB
+- Portable Tomcat-based execution
+
+→ Repository: [TurismoUY-JakartaEE-SOAP](https://github.com/rofernandezm/TurismoUY-JakartaEE-SOAP)
+
+### TuAutoCom – Web Application
+Full web application developed with focus on:
+- Backend logic and persistence
+- Structured project organization
+- Clean separation of responsibilities
+
+→ Repository: [TuAutoCom](https://github.com/rofernandezm/TuAutoCom)
+
+## 🛠 Technical Areas
+
+- Java 17
+- Jakarta EE (Servlet, JPA)
+- SOAP Web Services (JAX-WS)
+- Maven
+- Apache Tomcat
+- HSQLDB
+- Test Automation (Selenium-based frameworks)
+
+## 📌 About This Profile
+
+This repository space contains structured academic and technical projects that reflect my evolution from student to professional engineer, with a strong focus on system design, automation, and backend development.
