@@ -1,46 +1,41 @@
 # Rodrigo Fernandez
 
-Software Engineer focused on Quality Engineering, Test Automation and Distributed Systems.
+Software Engineer focused on Quality Engineering, Test Automation and Backend Development.
 
-Currently working as SDET, designing and maintaining automation frameworks for web applications, while continuously expanding into backend and architectural development.
+Currently working as SDET, designing and maintaining automation frameworks for enterprise web applications, while expanding into backend engineering and distributed system architecture.
 
-## 🔍 Current Focus
+## 🔍 Core Interests
 
-- Java-based test automation and framework design
-- Distributed system architectures (SOAP / Jakarta EE)
-- Backend development fundamentals
-- Software design and clean architecture principles
+- Java Backend Development
+- Distributed Systems Architecture
+- Software Design & Clean Architecture
+- Automation Framework Design
+- Enterprise Application Development
 
 ## 🚀 Selected Projects
 
-### TurismoUY – Jakarta EE & SOAP Distributed System
+### TurismoUY – Jakarta EE Distributed System (SOAP)
 Enterprise-style academic project implementing:
 - Multi-layer architecture (Controller / DTO / Persistence)
 - SOAP Web Services (JAX-WS, WSDL, JAXB)
 - Web client (Servlet/JSP) + Desktop client (Swing)
 - JPA (EclipseLink) with HSQLDB
-- Portable Tomcat-based execution
+- Portable Tomcat execution
 
-→ Repository: [TurismoUY-JakartaEE-SOAP](https://github.com/rofernandezm/TurismoUY-JakartaEE-SOAP)
+→ https://github.com/rofernandezm/TurismoUY-JakartaEE-SOAP
 
 ### TuAutoCom – Web Application
-Full web application developed with focus on:
-- Backend logic and persistence
-- Structured project organization
-- Clean separation of responsibilities
+Web application focused on:
+- Backend logic and data persistence
+- Structured architecture
+- Clear separation of responsibilities
 
-→ Repository: [TuAutoCom](https://github.com/rofernandezm/TuAutoCom)
+→ https://github.com/rofernandezm/TuAutoCom
 
-## 🛠 Technical Areas
+## 🛠 Technologies
 
-- Java 17
-- Jakarta EE (Servlet, JPA)
-- SOAP Web Services (JAX-WS)
-- Maven
-- Apache Tomcat
-- HSQLDB
-- Test Automation (Selenium-based frameworks)
+Java 17 · Jakarta EE · JPA · SOAP (JAX-WS) · Maven · Tomcat · HSQLDB · Test Automation (Selenium-based frameworks)
 
-## 📌 About This Profile
+## 📌 Profile Context
 
-This repository space contains structured academic and technical projects that reflect my evolution from student to professional engineer, with a strong focus on system design, automation, and backend development.
+This profile reflects my technical evolution from academic projects in C/C++ to structured Java enterprise systems and automation architecture, with a strong focus on engineering quality and system design.
